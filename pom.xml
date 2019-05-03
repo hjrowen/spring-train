@@ -10,6 +10,7 @@
     <modules>
         <module>HelloService</module>
         <module>Registry</module>
+        <module>feignapi</module>
     </modules>
     <packaging>pom</packaging>
 
